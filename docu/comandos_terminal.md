@@ -15,7 +15,7 @@
     - `git log`: Ver los commits realizados (pulsa q para salir)
     - `git remote`: Ver a que repositorios remotos esta vinculado este repo
     - `git push origin master`: Sube la rama master a git
-    - `git checkout -b <nombre_rama>`: Crea una nueva rama
+    - `git checkout -b <nombre_rama>`: Crea una nueva rama (sale en github si haces `git push origin <nombre_rama`)
 - `mkdir`: Crea una carpeta vacia
 - `rm`: Elimina un fichero
     - `rm -rf`: 🚧Elimina una carpeta y sus ficheros🚧
